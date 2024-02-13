@@ -12,7 +12,7 @@ This is a simple demonstration of attendence management system using java to pra
 - It is done without database and inbuilt student and teacher details
 
      
-## Tech stack
+### Tech stack
 
 - Java
 
